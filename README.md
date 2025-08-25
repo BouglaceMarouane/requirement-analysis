@@ -11,3 +11,6 @@ Requirement Analysis is the process of identifying, documenting, and analyzing t
 1. **Prevents Scope Creep:** Clearly defined requirements set project boundaries and reduce unexpected changes.  
 2. **Ensures Stakeholder Alignment:** Confirms that the system meets business and user needs.  
 3. **Guides Development & Testing:** Provides a roadmap for developers and testers, improving efficiency and reducing rework.
+
+## Key Activities in Requirement Analysis
+
