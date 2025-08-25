@@ -14,3 +14,8 @@ Requirement Analysis is the process of identifying, documenting, and analyzing t
 
 ## Key Activities in Requirement Analysis
 
+- **Requirement Gathering:** Collect information from stakeholders through interviews, surveys, and research.  
+- **Requirement Elicitation:** Refine and elaborate on gathered requirements using brainstorming, prototyping, and workshops.  
+- **Requirement Documentation:** Record requirements into structured documents and diagrams.  
+- **Requirement Analysis & Modeling:** Analyze requirements for consistency, feasibility, and create models like use case diagrams.  
+- **Requirement Validation:** Review requirements with stakeholders to ensure accuracy and completeness.
