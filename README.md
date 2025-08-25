@@ -41,3 +41,5 @@ Use case diagrams visually represent interactions between users (actors) and the
 
 ![Booking System Use Case](alx-booking-uc.png)
 
+## Acceptance Criteria
+
