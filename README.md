@@ -34,3 +34,6 @@ Non-functional requirements describe how the system should perform. Examples:
 - Page load time under 2 seconds  
 - System must support 1000 concurrent users  
 - Data encryption for sensitive information
+
+## Use Case Diagrams
+
