@@ -37,3 +37,7 @@ Non-functional requirements describe how the system should perform. Examples:
 
 ## Use Case Diagrams
 
+Use case diagrams visually represent interactions between users (actors) and the system. They help stakeholders understand system functionality and identify all user actions.
+
+![Booking System Use Case](alx-booking-uc.png)
+
