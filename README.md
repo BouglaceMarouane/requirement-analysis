@@ -5,3 +5,5 @@ This repository documents the Requirement Analysis phase for a Booking Managemen
 ## What is Requirement Analysis?
 
 Requirement Analysis is the process of identifying, documenting, and analyzing the needs and expectations of stakeholders for a software project. It ensures that developers clearly understand what the system should do, helping to prevent scope creep, reduce errors, and guide the design and implementation phases of the SDLC.
+
+## Why is Requirement Analysis Important?
