@@ -22,3 +22,15 @@ Requirement Analysis is the process of identifying, documenting, and analyzing t
 
 ## Types of Requirements
 
+### Functional Requirements
+Functional requirements define what the system must do. Examples for a booking system:  
+- User Registration  
+- Property Search  
+- Secure Login  
+- Booking a Property
+
+### Non-Functional Requirements
+Non-functional requirements describe how the system should perform. Examples:  
+- Page load time under 2 seconds  
+- System must support 1000 concurrent users  
+- Data encryption for sensitive information
