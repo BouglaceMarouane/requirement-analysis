@@ -19,3 +19,6 @@ Requirement Analysis is the process of identifying, documenting, and analyzing t
 - **Requirement Documentation:** Record requirements into structured documents and diagrams.  
 - **Requirement Analysis & Modeling:** Analyze requirements for consistency, feasibility, and create models like use case diagrams.  
 - **Requirement Validation:** Review requirements with stakeholders to ensure accuracy and completeness.
+
+## Types of Requirements
+
