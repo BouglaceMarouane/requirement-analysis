@@ -43,3 +43,11 @@ Use case diagrams visually represent interactions between users (actors) and the
 
 ## Acceptance Criteria
 
+Acceptance Criteria are conditions a feature must meet to be accepted by stakeholders. They ensure that the system delivers the expected results.
+
+**Example:** Checkout Feature  
+- User can review booking details before payment.  
+- Payment confirmation is sent via email.  
+- Booking details are saved in the system.  
+- Transactions fail gracefully if payment is declined.
+
